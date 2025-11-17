@@ -83,7 +83,6 @@ header {
     width: 80%;
 }
 
-/* Основной контент */
 .main-content {
     max-width: 1200px;
     margin: 0 auto;
@@ -91,7 +90,6 @@ header {
     flex: 1;
 }
 
-/* Герой секция */
 .hero {
     text-align: center;
     padding: 4rem 2rem;
@@ -220,7 +218,6 @@ header {
     font-size: 1.2rem;
 }
 
-/* Кнопки */
 .btn {
     display: inline-flex;
     align-items: center;
@@ -268,7 +265,6 @@ header {
     background: linear-gradient(135deg, #eb3232 0%, #410101 100%);
 }
 
-/* Детальная страница товара */
 .product-detail {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -553,4 +549,5 @@ header {
         box-shadow: none;
         border: 1px solid #ddd;
     }
+
 }
